@@ -1,0 +1,24 @@
+port: 7890
+socks-port: 7891
+allow-lan: true
+mode: rule
+log-level: info
+dns:
+  enable: true
+  ipv6: false
+  enhanced-mode: redir-host
+  listen: 0.0.0.0:53
+  nameserver:
+    - 223.5.5.5
+    - 223.6.6.6
+    - 119.29.29.29
+    - 180.76.76.76
+  fallback:
+    - https://162.159.36.1/dns-query
+    - https://162.159.46.1/dns-query
+    - https://1.1.1.1/dns-query
+    - https://1.0.0.1/dns-query
+    - https://139.224.112.177/dns-query
+    - https://162.14.13.12/dns-query
+#interface-name: 以太网
+#interface-name: WLAN
