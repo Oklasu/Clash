@@ -1,0 +1,6 @@
+# 内容：自用规则
+DOMAIN-SUFFIX,sehuatang.org
+DOMAIN-SUFFIX,4khdr.cn
+DOMAIN-SUFFIX,a4k.net
+DOMAIN-KEYWORD,javbus
+DOMAIN-KEYWORD,javlibrary
