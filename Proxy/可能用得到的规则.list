@@ -1,5 +1,12 @@
+；自用筛查规则
 ruleset=🤖 OpenAI,https://raw.githubusercontent.com/AGWA5783/Profiles/master/Surge/Ruleset/Extra/OpenAI/OpenAI.list
-ruleset=🎥 Netflix,https://raw.githubusercontent.com/AGWA5783/Profiles/master/Surge/Ruleset/StreamingMedia/Video/Netflix.list
+ruleset=🎥 Netflix,https://raw.githubusercontent.com/AGWA5783/Profiles/master/Surge/Ruleset/StreamingMedia/Video/Netflix.list、
+ruleset=🎶 Spotify,https://raw.githubusercontent.com/Z-Siqi/Clash-for-Windows_Rule/main/Rule/Spotify
+ruleset=💽 ProxyMedia,https://raw.githubusercontent.com/AGWA5783/Profiles/master/Surge/Ruleset/StreamingMedia/Video/DisneyPlus.list
+ruleset=💽 ProxyMedia,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/ProxyMedia.list
+ruleset=DIRECT,https://raw.githubusercontent.com/AGWA5783/Profiles/master/Surge/Ruleset/Extra/Game/Steam.list
+;ruleset=🚀 Proxies,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/ProxyGFWlist.list
+ruleset=🚀 Proxies,https://raw.githubusercontent.com/AGWA5783/Profiles/master/Surge/Ruleset/Global.list
 
 
 
