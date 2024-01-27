@@ -1,3 +1,6 @@
+ruleset=🤖 OpenAI,https://raw.githubusercontent.com/AGWA5783/Profiles/master/Surge/Ruleset/Extra/OpenAI/OpenAI.list
+
+
 ；Nexiatlly配置
 ruleset=REJECT,https://cdn.jsdelivr.net/gh/SleepyHeeead/subconverter-config@master/ruleset/external/DivineEngine/Surge/Hijacking.list
 ruleset=DIRECT,https://cdn.jsdelivr.net/gh/SleepyHeeead/subconverter-config@master/ruleset/force-direct.list
